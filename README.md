@@ -1,5 +1,5 @@
 # template_2
-link :  https://jamel123a.github.io/template_2/
+link :  https://cofina-6405b7.netlify.app/
 
 ![1](https://user-images.githubusercontent.com/95764822/148430741-cbf2f295-9246-48a6-a116-f746c6f3720c.png)
 ![2](https://user-images.githubusercontent.com/95764822/148430754-24a9fe69-90b7-481c-bc9c-3d8165e6bd6d.png)
